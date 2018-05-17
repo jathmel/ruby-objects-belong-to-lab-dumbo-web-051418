@@ -1,3 +1,3 @@
 class Post 
-  attr_reader :title
+  attr_accessor :title
 end
